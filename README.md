@@ -1,5 +1,5 @@
 # CoinMarketCap Scraper
-This Python script obtains and export to CSV a dataframe formed by the current price of up to 8 user-selected cryptocurrencies from different Exchanges, obtained by scraping [CoinMarketCap](https://coinmarketcap.com) site.
+This Python script obtains and exports to CSV a dataframe formed by the current price of up to 8 user-selected cryptocurrencies from different Exchanges, obtained by scraping [CoinMarketCap](https://coinmarketcap.com) site.
 
 
 ## Dependencies
