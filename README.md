@@ -40,5 +40,10 @@ The supported cryptocurrency list as well as their corresponding argument name c
 python scraper.py -h
 ```
 
+
+## Author
+- Sergi Canet Vela
+
+
 ## License
 This project is licensed under the terms of the MIT license.
